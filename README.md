@@ -53,7 +53,7 @@ We believed that we have fulfilled the following 5 criteria:
     
 ## Using the functionality
 
-*Note: Since this repository has not yet been merged to the *DD2482 Automated Software Testing and DevOps* course repository, a simulation of the process has been performed, where a `student-fork` branch (corresponding to a student's course-automation fork) makes a labeled PR to the `2021` branch of this repository.
+*Note: Since the forked repository has not yet been merged to the *DD2482 Automated Software Testing and DevOps* course repository, a simulation of the process has been performed, where a `student-fork` branch (corresponding to a student's course-automation fork) makes a labeled PR to the `2021` branch of the [forked repository](https://github.com/dmariel/devops-course).
 
 The results can be seen here:
 * Example PR: https://github.com/dmariel/devops-course/pull/4
