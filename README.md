@@ -22,8 +22,6 @@ The aim of the action is to facilitate for students of *DD2482 Automated Softwar
 
 ## Installation
 
-*Note: For the course *DD2482 Automated Software Testing and DevOps*, the only thing needed for the functionality to run is for the course-administrators to merge the PR-submission and create a label `Upvote - Course Automation` in the *DD2482 Automated Software Testing and DevOps* course repository.
-
 This section describes how the functionality is installed on a repository:
 
 1. Include a `.github/workflows` directory to the repository in the default branch.
