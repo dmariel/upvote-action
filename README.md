@@ -84,4 +84,3 @@ The results can be seen here:
 **A "Top-list" is created and updated automatically (scheduled every 5 min):**
 
 <img src="https://github.com/dmariel/devops-course/blob/course-automation/contributions/course-automation/lerjevik-renstr/images/toplist_table.png?raw=true" width="700">
-
